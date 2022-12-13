@@ -16,15 +16,19 @@ The test runner codes can be extracted from this link.
 The module test case steps code can be extracted from this link.
 
 
-Technology:
+##Technology:
 
 Tool: Selenium Webdriver
+
 IDE: Intellij IDEA
+
 Build tool: Gradle
+
 Language: Java
+
 Testing Framework : TestNG
 
-Prerequisite:
+##Prerequisite:
 
 Need to install jdk 11, gradle and allure
 Configure Environment variable for jdk 11, gradle and allure
