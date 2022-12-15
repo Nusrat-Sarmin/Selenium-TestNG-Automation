@@ -5,8 +5,11 @@ This is a complete project where an comprehensive human capital management site 
 The following key modules/pages are automated:
 
 Login
+
 AddEmployeePage
+
 ViewEmployeePage
+
 DashboardPage
 
 Key test cases are written for each module and test suites created including the positive and negative test cases.
